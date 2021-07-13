@@ -1,11 +1,7 @@
 #####################################################################
 #
-# CSC258H5S Winter 2020 Assembly Programming Project
-# University of Toronto Mississauga
 #
-# Group members:
-# - Student 1: Richard Mba, 1005383764
-# - Student 2: Mohammad Tahvili, 1005308926
+# Project Owner: Richard Mba
 #
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8					     
